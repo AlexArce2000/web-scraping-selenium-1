@@ -3,14 +3,10 @@ from selenium.webdriver.support.ui import WebDriverWait # no deja que el script 
 from selenium.webdriver.support import expected_conditions as EC # ayuda a buscar información si existe o no 
 from selenium.webdriver.common.by import By # escoger elementos, hacer consultas 
 
-
-
 # agregar opciones de navegación 
 options = webdriver.ChromeOptions()
 options.add_argument('--start-maximized') # iniciar con pantalla completa
 options.add_argument('--disable-extensions') # desactivar extensiones
-
-
 
 driver = webdriver.Chrome(options=options) # opciones para el navegador inicie (pantalla maxima - extensiones desactivadas)
 driver.get('https://www.tupi.com.py/') # abrir el navegador 

@@ -18,13 +18,15 @@ El objetivo de este script es buscar productos de la categoría "teclados" (ejem
 
 1. Clona este repositorio en tu máquina local: 
 
-`git clone https://github.com/AlexArce2000/web-scraping-selenium.git
-`
+````
+git clone https://github.com/AlexArce2000/web-scraping-selenium.git
+````
 
 2. Instala las dependencias necesarias:
 
-`pip install selenium
-`
+````
+pip install selenium
+````
 
 3. Descarga el WebDriver correspondiente para tu navegador (en este caso, ChromeDriver) y asegúrate de que esté en tu PATH.
 
@@ -32,8 +34,9 @@ El objetivo de este script es buscar productos de la categoría "teclados" (ejem
 
 1. Ejecuta el script `web_scraping.py`:
 
-`python web_scraping.py
-`
+````
+python web_scraping.py
+````
 
 2. El script abrirá una ventana del navegador, realizará la búsqueda de teclados en el sitio web de Tupi, y mostrará la información extraída en la consola.
 

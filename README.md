@@ -47,8 +47,7 @@ Los ejemplos fueron realizados en la fecha actual.
 ###### Página al momento de realizar el script: 
 
 
-[https://postimg.cc/NKYdXRVc
-](https://https://postimg.cc/NKYdXRVc)
+https://postimg.cc/NKYdXRVc
 
 ###### Salida:
 
